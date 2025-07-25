@@ -1,1 +1,11 @@
 
+{
+  "name": "Xbox 360 Avatar Music",
+  "description": "The Background track playing on the Xbox 360 avatar editor.",
+  "author": "nostr0m",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
